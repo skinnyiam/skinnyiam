@@ -4,8 +4,8 @@
 ## I'm a Student, Developer,Guitarist and Song Writer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: 
--  Contribute more to Open Source projects
+- 🥅 2022 Goals: 
+-
 -  Reach 4 star in codechef
 - ⚡ Fun fact: I love to draw and play guitar
 
