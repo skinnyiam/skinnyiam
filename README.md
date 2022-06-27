@@ -1,12 +1,10 @@
-### Hi there, Saurabh Shukla - aka Skinny  👋
+### Hi there, Saurabh Shukla   👋
 
 
-## I'm a Student, Developer,Guitarist and Song Writer!!
+## I'm a Student,Front End Developer,Guitarist and Song Writer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: 
--
--  Reach 4 star in codechef
+- 🌱 I’m currently learning Data Structure and Alogorithms 🤣
+-  Solved over 175+ questions on Leetcode
 - ⚡ Fun fact: I love to draw and play guitar
 
 ### Connect with me:
