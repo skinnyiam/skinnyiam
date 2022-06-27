@@ -14,7 +14,6 @@ Hi, I'm [Saurabh Shukla](https://saurabhshukla.vercel.app/), a web developer �
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
  - 📫 How to reach me: [ss6408367@gmail.com](mailto:abhishekmaira1999@gmail.com);
  - 🔗 My website: [saurabhshukla.vercel.app](https://saurabhshukla.vercel.app/)
@@ -36,6 +35,7 @@ Hi, I'm [Saurabh Shukla](https://saurabhshukla.vercel.app/), a web developer �
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 
 ---
@@ -63,5 +63,5 @@ Hi, I'm [Saurabh Shukla](https://saurabhshukla.vercel.app/), a web developer �
 </a>
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+ Show some ❤️ by starring some of the repositories!
 </div>
