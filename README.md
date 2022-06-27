@@ -18,11 +18,6 @@ Hi, I'm [Saurabh Shukla](https://saurabhshukla.vercel.app/), a web developer �
  - 📫 How to reach me: [ss6408367@gmail.com](mailto:abhishekmaira1999@gmail.com);
  - 🔗 My website: [saurabhshukla.vercel.app](https://saurabhshukla.vercel.app/)
  
- <br>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekMaira10" alt="AbhishekMaiara10" /> </p>
- 
- </br>
 
 **Languages and Tools:**
 <br>
