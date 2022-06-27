@@ -50,13 +50,4 @@ Hi, I'm [Saurabh Shukla](https://saurabhshukla.vercel.app/), a web developer �
 
 </br>
 
-<a href="https://github.com/skinnyiam/Recipeasr" target="_blank">
-  <img align="center" src="recipeas-zeta.vercel.app/" />
-</a>
-<a href="https://github.com/skinnyiam/moviezone" target="_blank">
- <img align="center" src="moviezone.vercel.app" />
-</a>
-<div align="center">
 
- Show some ❤️ by starring some of the repositories!
-</div>
