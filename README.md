@@ -2,7 +2,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/saurabh-shukla-885a711b3/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/saurabh_ishere/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -54,20 +53,13 @@ Hi, I'm [Saurabh Shukla](https://saurabhshukla.vercel.app/), a web developer ðŸ‘
 
 <hr>
 
-<details>
-<summary>ðŸ“ˆ My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-</details>
-
 </br>
 
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
+<a href="https://github.com/skinnyiam/Recipeasr" target="_blank">
+  <img align="center" src="recipeas-zeta.vercel.app/" />
 </a>
-<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
+<a href="https://github.com/skinnyiam/moviezone" target="_blank">
+ <img align="center" src="moviezone.vercel.app" />
 </a>
 <div align="center">
 
