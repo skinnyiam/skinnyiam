@@ -15,7 +15,7 @@ Hi, I'm [Saurabh Shukla](https://saurabhshukla.vercel.app/), a web developer �
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
 
- - 📫 How to reach me: [ss6408367@gmail.com](mailto:abhishekmaira1999@gmail.com);
+ - 📫 How to reach me: [ss6408367@gmail.com]
  - 🔗 My website: [saurabhshukla.vercel.app](https://saurabhshukla.vercel.app/)
  
 
