@@ -38,9 +38,6 @@ Hi, I'm [Saurabh Shukla](https://saurabhshukla.vercel.app/), a web developer ğŸ‘
 ---
 ### ğŸ“¢ Find me elsewhere
 <p align="left">
-  <a href="https://www.codechef.com/users/newbie_69">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://leetcode.com/saurabhshukla7878/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
