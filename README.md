@@ -6,7 +6,7 @@
 
 <br>
 
-Hi, I'm [Saurabh Shukla](https://saurabhshukla.vercel.app/), a web developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast .I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and play guitar .
+Hi, I'm [Saurabh Shukla](https://saurabhshukla.codes/), a web developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast .I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and play guitar .
 
 <br>
 
@@ -16,7 +16,7 @@ Hi, I'm [Saurabh Shukla](https://saurabhshukla.vercel.app/), a web developer �
 
 
  - 📫 How to reach me: [ss6408367@gmail.com]
- - 🔗 My website: [saurabhshukla.vercel.app](https://saurabhshukla.vercel.app/)
+ - 🔗 My website: [saurabhshukla.codes](https://saurabhshukla.codes/)
  
 
 **Languages and Tools:**
