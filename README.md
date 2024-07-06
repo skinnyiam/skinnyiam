@@ -4,6 +4,18 @@ I am full stack developer
 <br>
 That's all.
 <br>
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNhOWJxZHZ2eWNhNjc0Ynk1a29jbDkxc2duYW13M29mNGF6b2dsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kr0OMSLiyKUF2/giphy.gif)
+
+
+![al](https://dbgi97grppr1g.cloudfront.net/clwg8sf0n0001euja0v461vwb/video_3736520b-ef65-4034-b354-3ee9d7c1a95f.mp4)
+
+
+
 ---
 
+- fbhfbfe
+- fjekfewfewf
+
+* jfbekfbwef
+* jbfjebfkwefef
+
+1. fnlewfewf
